@@ -1,1 +1,1 @@
-smooth your plot
+smooth your plot.
